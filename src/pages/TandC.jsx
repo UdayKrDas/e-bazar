@@ -16,7 +16,7 @@ const TandC = () => {
         <div className='group'>
           <h1 className='text-2xl font-bold mb-5 group'>So, should you blindly trust me and give me a Job ?</h1>
           <div>
-            <h1 className='text-2xl font-bold -mt-18 absolute p-5 right-130 opacity-0 group-hover:opacity-100 group-hover:visible duration-400 z-50'>YES</h1>
+            <h1 className='text-2xl font-bold -mt-18 absolute p-5 right-150 opacity-0 group-hover:opacity-100 group-hover:visible duration-400 z-50'>YES</h1>
           </div>
         </div>
         <p>Obv not lol, I'd love to attend an interview scheduled by you, and you can ask me anything about my projects or any questions you want, to qualify me as a candidate.</p>
